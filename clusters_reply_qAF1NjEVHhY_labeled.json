@@ -1,0 +1,11 @@
+{
+  "video_id": "qAF1NjEVHhY",
+  "role": "reply",
+  "total_rows": 34,
+  "cluster_count": 0,
+  "noise_count": 34,
+  "clusters": [],
+  "labeled_clusters": [],
+  "ollama_model": "qwen3-vl:4b-instruct",
+  "ollama_base": "http://127.0.0.1:11434"
+}

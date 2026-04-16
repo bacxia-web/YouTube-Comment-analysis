@@ -1,0 +1,141 @@
+{
+  "video_id": "k-xtmISBCNE",
+  "role": "top_level",
+  "total_rows": 177,
+  "cluster_count": 2,
+  "noise_count": 54,
+  "clusters": [
+    {
+      "cluster_id": 0,
+      "size": 115,
+      "top_keywords": [
+        "e ",
+        " t",
+        " a",
+        "s ",
+        "th",
+        "in",
+        "t ",
+        " th",
+        "he",
+        "en"
+      ],
+      "representatives": [
+        {
+          "comment_id": "UgwFqbJBtL_11YrSJqx4AaABAg",
+          "author_display_name": "@furripupau",
+          "published_at": "2026-01-16T03:57:40Z",
+          "like_count": 0,
+          "text": "54:08 is when he reveals that the only thing AI was designed to do (and which it does very effectively) is waste resources. His comments are quite revelatory. It's absolutely no surprise that corporations began to push AI very hard, right after energy consumption began to fall fo",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgyAtSOm1FG5fVVyzcJ4AaABAg",
+          "author_display_name": "@tpfrk8977",
+          "published_at": "2026-01-13T22:32:27Z",
+          "like_count": 4,
+          "text": "Of course the AI bubble is real… Saying anything to the contrary is just unmitigated BS",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgyK3gdQXCgQlcqhNGN4AaABAg",
+          "author_display_name": "@pinatasrule",
+          "published_at": "2026-01-13T03:47:07Z",
+          "like_count": 3,
+          "text": "Oh, look the greedy guy wants us to submit to AI slop. Nope not sorry.",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgyhfsH2cpD-j2lvv9N4AaABAg",
+          "author_display_name": "@oldsk00l",
+          "published_at": "2026-01-12T15:38:40Z",
+          "like_count": 20,
+          "text": "It's not the negativity about AI, it's the negativity about the attitudes of the wealthy and the lack of conversation about what society is about to look like. He doesn't care, because he's selling shovels, and all of us who see our graves being dug with his shovels is apparently",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgyC83qiT8hexZsdSLR4AaABAg",
+          "author_display_name": "@Christian-op1ss",
+          "published_at": "2026-01-09T13:29:00Z",
+          "like_count": 20,
+          "text": "The question \"Is AI a bubble\" would be really easy to answer with some profit number examples. That Jensen has to step back and paint a wordy picture without numbers is telling.",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgzGhD9gL8FMCg64V5Z4AaABAg",
+          "author_display_name": "@RAB936",
+          "published_at": "2026-01-14T09:51:34Z",
+          "like_count": 0,
+          "text": "M. Huang, AI is already a problem and having bad influence in our lives. Everything related to computers got their prices increased so much. Company now use AI to (not) recruit people and they are coldly and immediately refused without having any chances. Others get fired to be r",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "size": 8,
+      "top_keywords": [
+        ":0",
+        ":00",
+        "00",
+        ":4",
+        "5:",
+        "1:",
+        "30",
+        "3:",
+        "0:00",
+        "0:0"
+      ],
+      "representatives": [
+        {
+          "comment_id": "UgxvXeevBL6_W4ADN1Z4AaABAg",
+          "author_display_name": "@accqpqp2339",
+          "published_at": "2026-01-10T07:35:41Z",
+          "like_count": 0,
+          "text": "13:00",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgxNxEZfUSNFYwMm74B4AaABAg",
+          "author_display_name": "@accqpqp2339",
+          "published_at": "2026-01-11T09:18:16Z",
+          "like_count": 0,
+          "text": "55:30",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "Ugwsiwg7vWWzoeC8ojF4AaABAg",
+          "author_display_name": "@accqpqp2339",
+          "published_at": "2026-01-11T06:03:17Z",
+          "like_count": 0,
+          "text": "45:00",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgxBlpqwdUHFrbgoMvJ4AaABAg",
+          "author_display_name": "@accqpqp2339",
+          "published_at": "2026-01-11T11:58:31Z",
+          "like_count": 0,
+          "text": "1:06:00",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgwbIe08V3m2d8XEjtB4AaABAg",
+          "author_display_name": "@Yippee_rawr",
+          "published_at": "2026-01-29T02:26:07Z",
+          "like_count": 0,
+          "text": "20:00",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgzZh9ACneYdj2J64sh4AaABAg",
+          "author_display_name": "@accqpqp2339",
+          "published_at": "2026-01-10T18:13:38Z",
+          "like_count": 0,
+          "text": "30:00",
+          "parent_comment_id": null
+        }
+      ]
+    }
+  ]
+}

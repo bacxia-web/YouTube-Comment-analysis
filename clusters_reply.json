@@ -1,0 +1,207 @@
+{
+  "video_id": "kwSVtQ7dziU",
+  "role": "reply",
+  "total_rows": 304,
+  "cluster_count": 3,
+  "noise_count": 183,
+  "clusters": [
+    {
+      "cluster_id": 2,
+      "size": 74,
+      "top_keywords": [
+        "e ",
+        " t",
+        " a",
+        "t ",
+        "s ",
+        "th",
+        "in",
+        " i",
+        "er",
+        " th"
+      ],
+      "representatives": [
+        {
+          "comment_id": "Ugwuzw2PQJnSl3YNYKp4AaABAg.AUaW4s1XpFgAUcPYbMfXTh",
+          "author_display_name": "@sansbury95",
+          "published_at": "2026-03-21T17:22:34Z",
+          "like_count": 0,
+          "text": "​ @flopasen It is absolutely wild to me how many people are still pumping this line that you can't build production code with AI. It is true in the sense that a person with no understanding of architecture, infrastructure, or security can't vibe code a good serious app over a lon",
+          "parent_comment_id": "Ugwuzw2PQJnSl3YNYKp4AaABAg"
+        },
+        {
+          "comment_id": "Ugy9kSJBFnK2ScSQsDR4AaABAg.AUm4NseYP0iAUm7l6I90Dv",
+          "author_display_name": "@bennydirty",
+          "published_at": "2026-03-25T11:59:32Z",
+          "like_count": 0,
+          "text": "@aitoolcorner You read the code but the code always gives you suggestions and causes that it is hard to go out of the box. If you need to implement something from scratch, all ways are possible. AI is good if you need boilerplate but not to implement sophisticated solutions. This",
+          "parent_comment_id": "Ugy9kSJBFnK2ScSQsDR4AaABAg"
+        },
+        {
+          "comment_id": "UgzD6x-cBE4SZ412M554AaABAg.AUc67jQN2ClAUeuYbzOrNK",
+          "author_display_name": "@milanekrkane",
+          "published_at": "2026-03-22T16:40:40Z",
+          "like_count": 0,
+          "text": "​ @Mr_Big_Head  You keep reducing your position to ‘AI is useful,’ but that was never the contested part. The part I pushed back on was the implication that adjacent technical expertise is basically irrelevant here. It isn’t. A real engineer using AI is not the same as a random p",
+          "parent_comment_id": "UgzD6x-cBE4SZ412M554AaABAg"
+        },
+        {
+          "comment_id": "UgxBEpofilYCYdmfTxN4AaABAg.AU_y67P8AkKAUdKzFgTbEF",
+          "author_display_name": "@keyser456",
+          "published_at": "2026-03-22T02:01:53Z",
+          "like_count": 3,
+          "text": "@sousoux I've made my share, and I've worked alongside many human developers who have made mistakes. AI isn't perfect, but neither are humans. In time (and sooner rather than later) it will be less error-prone than humans. We know for sure that it's already many orders of magnitu",
+          "parent_comment_id": "UgxBEpofilYCYdmfTxN4AaABAg"
+        },
+        {
+          "comment_id": "UgzD6x-cBE4SZ412M554AaABAg.AUc67jQN2ClAUenZDHfgsy",
+          "author_display_name": "@Mr_Big_Head",
+          "published_at": "2026-03-22T15:39:35Z",
+          "like_count": 0,
+          "text": "@milanekrkanellm response are only as good as your input.  Adjacent expertise does not mean expertise.  Sure they could learn faster with a good starting foundation.  Doesn’t negate the need to learn it.\\n\\nMy initial statement was built exactly on this, he may not be well versed",
+          "parent_comment_id": "UgzD6x-cBE4SZ412M554AaABAg"
+        },
+        {
+          "comment_id": "UgzD6x-cBE4SZ412M554AaABAg.AUc67jQN2ClAUec0IU_Yj2",
+          "author_display_name": "@Mr_Big_Head",
+          "published_at": "2026-03-22T13:58:42Z",
+          "like_count": 0,
+          "text": "@m@milanekrkaneyour initial statement about learning good practices while coding with an LLM would allow an expert engineer to make no mistakes.\\n\\nLike I said if they are not well versed in networking and security it makes sense to use an AI.  Simply learning good practices woul",
+          "parent_comment_id": "UgzD6x-cBE4SZ412M554AaABAg"
+        }
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "size": 36,
+      "top_keywords": [
+        "ha",
+        "in",
+        "e ",
+        " �",
+        "� ",
+        " t",
+        "y ",
+        "� �",
+        "el",
+        " s"
+      ],
+      "representatives": [
+        {
+          "comment_id": "UgzLXYKUvBUhKzBw56V4AaABAg.AUa3Y3l0vAnAUaJrc6DZY3",
+          "author_display_name": "@matija92",
+          "published_at": "2026-03-20T21:54:23Z",
+          "like_count": 0,
+          "text": "well said",
+          "parent_comment_id": "UgzLXYKUvBUhKzBw56V4AaABAg"
+        },
+        {
+          "comment_id": "UgxBEpofilYCYdmfTxN4AaABAg.AU_y67P8AkKAUbotbfm39b",
+          "author_display_name": "@hazadam",
+          "published_at": "2026-03-21T11:53:31Z",
+          "like_count": 0,
+          "text": "well said",
+          "parent_comment_id": "UgxBEpofilYCYdmfTxN4AaABAg"
+        },
+        {
+          "comment_id": "UgwiD7GlO2bPk7MGBCx4AaABAg.AU_ySpI4j_wAUcpsnkt01l",
+          "author_display_name": "@tusharmaniktala",
+          "published_at": "2026-03-21T21:21:23Z",
+          "like_count": 1,
+          "text": "well said",
+          "parent_comment_id": "UgwiD7GlO2bPk7MGBCx4AaABAg"
+        },
+        {
+          "comment_id": "UgxBEpofilYCYdmfTxN4AaABAg.AU_y67P8AkKAUb3AeSQvKT",
+          "author_display_name": "@koncreate8744",
+          "published_at": "2026-03-21T04:47:49Z",
+          "like_count": 1,
+          "text": "@seeknndestroy420 You learn that way. Duhh",
+          "parent_comment_id": "UgxBEpofilYCYdmfTxN4AaABAg"
+        },
+        {
+          "comment_id": "UgytvsKdAXLeZwwWFFd4AaABAg.AUbEdgoa8dvAUfYJCMS3d2",
+          "author_display_name": "@jsfnnyc",
+          "published_at": "2026-03-22T22:36:50Z",
+          "like_count": 1,
+          "text": "@e@ekrem8847omg yes",
+          "parent_comment_id": "UgytvsKdAXLeZwwWFFd4AaABAg"
+        },
+        {
+          "comment_id": "UgxBEpofilYCYdmfTxN4AaABAg.AU_y67P8AkKAUnGC0dL17L",
+          "author_display_name": "@gro967",
+          "published_at": "2026-03-25T22:32:29Z",
+          "like_count": 0,
+          "text": "@zdeklinowanyyou are welcome!",
+          "parent_comment_id": "UgxBEpofilYCYdmfTxN4AaABAg"
+        }
+      ]
+    },
+    {
+      "cluster_id": 0,
+      "size": 11,
+      "top_keywords": [
+        " t",
+        " i",
+        "t ",
+        "th",
+        "e ",
+        " th",
+        "o ",
+        "d ",
+        "re",
+        "s "
+      ],
+      "representatives": [
+        {
+          "comment_id": "Ugy330EphQmlTa6x6oF4AaABAg.AUaCSwL7iWnAUcuYMhoyHX",
+          "author_display_name": "@urfinroger5881",
+          "published_at": "2026-03-21T22:02:09Z",
+          "like_count": 0,
+          "text": "They just sped it up, in the tiktok style, but don't realize how crappy it sounds. Many (too many) podcasters do it, but this is so dumb... People who want to save 20 seconds on the video, can speed it up themselves, why do they have to ruin the audio quality for everybody is bey",
+          "parent_comment_id": "Ugy330EphQmlTa6x6oF4AaABAg"
+        },
+        {
+          "comment_id": "UgytvsKdAXLeZwwWFFd4AaABAg.AUbEdgoa8dvAUm_Za33e8D",
+          "author_display_name": "@peabody3000",
+          "published_at": "2026-03-25T16:11:14Z",
+          "like_count": 0,
+          "text": "i always speed up virtually every single youtube vid i view, but not this one. i think it's already sped up and i'm totally ok with that.",
+          "parent_comment_id": "UgytvsKdAXLeZwwWFFd4AaABAg"
+        },
+        {
+          "comment_id": "UgytvsKdAXLeZwwWFFd4AaABAg.AUbEdgoa8dvAUe_E8FzZt8",
+          "author_display_name": "@UryMarshak",
+          "published_at": "2026-03-22T13:34:22Z",
+          "like_count": 12,
+          "text": "@michaelm8499 It is, and it is incredibly annoying. I mean we can speed the video up ourselves if we want to, thank you very much, but if it comes pre-sped up, there's no way to remove the audio artifacts of that.",
+          "parent_comment_id": "UgytvsKdAXLeZwwWFFd4AaABAg"
+        },
+        {
+          "comment_id": "UgytvsKdAXLeZwwWFFd4AaABAg.AUbEdgoa8dvAUfLfWnB1fU",
+          "author_display_name": "@br3nto",
+          "published_at": "2026-03-22T20:46:25Z",
+          "like_count": 1,
+          "text": "@michaelm8499 that would be freshening… I swear YouTubers were intentionally talking slower and slower… but maybe that was just YouTube intentionally slowing down their videos, so the YouTubers are now intentionally speed up their vids to compensate for the YouTube slowdown.",
+          "parent_comment_id": "UgytvsKdAXLeZwwWFFd4AaABAg"
+        },
+        {
+          "comment_id": "UgytvsKdAXLeZwwWFFd4AaABAg.AUbEdgoa8dvAUfLGm9rF_4",
+          "author_display_name": "@br3nto",
+          "published_at": "2026-03-22T20:42:54Z",
+          "like_count": 2,
+          "text": "Yeah, I had to drop from x2 to x1.5 lol though to be fair, I swear most YouTubers actually reduce their normal speaking speed… or maybe YouTube does it on their behalf.",
+          "parent_comment_id": "UgytvsKdAXLeZwwWFFd4AaABAg"
+        },
+        {
+          "comment_id": "UgytvsKdAXLeZwwWFFd4AaABAg.AUbEdgoa8dvAUojQL--bLd",
+          "author_display_name": "@JR-kw6sd",
+          "published_at": "2026-03-26T12:15:49Z",
+          "like_count": 0,
+          "text": "Haha I listen to everything at 2x. Slowed this one down to 1.5 and might need to creep back toward 1.25. Thanks to Andrew for talking at speed!",
+          "parent_comment_id": "UgytvsKdAXLeZwwWFFd4AaABAg"
+        }
+      ]
+    }
+  ]
+}

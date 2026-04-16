@@ -1,0 +1,707 @@
+{
+  "video_id": "kwSVtQ7dziU",
+  "role": "top_level",
+  "total_rows": 480,
+  "cluster_count": 8,
+  "noise_count": 366,
+  "clusters": [
+    {
+      "cluster_id": 3,
+      "size": 28,
+      "top_keywords": [
+        "e ",
+        " a",
+        " t",
+        "s ",
+        "in",
+        "th",
+        " i",
+        "t ",
+        " th",
+        "an"
+      ],
+      "representatives": [
+        {
+          "comment_id": "Ugy0zUAOvMVg8-9g7XB4AaABAg",
+          "author_display_name": "@Psrk4287",
+          "published_at": "2026-03-27T22:55:30Z",
+          "like_count": 0,
+          "text": "One of top tier AI that has a widely used coding tool just has to go rogue and use the human agent interaction data to continuously self improve and in a few months you have coding AGI. We developers are guiding ourselves to our demise",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgxLcoMoha96RbsnL2Z4AaABAg",
+          "author_display_name": "@asefacihangir",
+          "published_at": "2026-03-24T04:41:16Z",
+          "like_count": 2,
+          "text": "Notes from video: � � \\n* AI coding agents have fundamentally changed how software is built — top engineers now delegate most of their work to agents instead of writing code themselves. The goal is to keep as many agents running as possible, with minimal human involvement. This s",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgxBEpofilYCYdmfTxN4AaABAg",
+          "author_display_name": "@keyser456",
+          "published_at": "2026-03-20T18:35:32Z",
+          "like_count": 588,
+          "text": "I'm in the same boat. 25 years of professional software development, and now I'm creating apps in languages and frameworks I don't even know. I don't write code anymore. I tell agents what to build. My experience helps me direct the agents to do things the right way, but I'm beco",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "Ugz75oZirmp2CfHrwTF4AaABAg",
+          "author_display_name": "@KaneReroma",
+          "published_at": "2026-03-29T23:26:35Z",
+          "like_count": 0,
+          "text": "Its exciting and kind of scary to say the least. Mot because ai is taking jobs but what AI is going to be capable in the future.",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "Ugzzp5pfEmuRsXEVG8R4AaABAg",
+          "author_display_name": "@FastForwardToFlow",
+          "published_at": "2026-03-23T10:12:35Z",
+          "like_count": 0,
+          "text": "How different is using AI different than paying a bunch of low-paid coders in a freelance site to build your complex system and then get frustrated that they failed to do it in a quality manner? People will always get back to TRUE SOFTWARE ENGINEERS when they need to get stuff do",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgxmJIIrEyL9NMo8sNh4AaABAg",
+          "author_display_name": "@OnigoroshiZero",
+          "published_at": "2026-03-23T22:59:37Z",
+          "like_count": 0,
+          "text": "And we still have the average developer say that AI can't take his job because he is some special kind of snowflake...\\n\\nAnyway, enough laughing at those that can't use AI. This was a great video.",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 25,
+      "top_keywords": [
+        " i",
+        "th",
+        "s ",
+        "in",
+        " a",
+        "at",
+        "t ",
+        "e ",
+        "ha",
+        "re"
+      ],
+      "representatives": [
+        {
+          "comment_id": "UgzYEaqbaWl0DeZk8np4AaABAg",
+          "author_display_name": "@abubakryagob",
+          "published_at": "2026-03-22T01:38:49Z",
+          "like_count": 0,
+          "text": "Simply iconic interview and well done both the host and the guest for the great discussion and sharing.",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgyEa61B8_eVUvqRK754AaABAg",
+          "author_display_name": "@at-st-driver",
+          "published_at": "2026-03-20T18:23:43Z",
+          "like_count": 3,
+          "text": "great job with the interview, appreciate the great questions and cool vibes :)",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgwBj6j-49ECNqAL3FB4AaABAg",
+          "author_display_name": "@mariannearriola5610",
+          "published_at": "2026-03-25T18:23:19Z",
+          "like_count": 1,
+          "text": "Great conversation !! Sarah is an amazing interviewer, thank you both!",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgwX_HrGiqQU-4EaPv94AaABAg",
+          "author_display_name": "@CanaryTrader",
+          "published_at": "2026-03-20T16:26:03Z",
+          "like_count": 5,
+          "text": "Thank you! Great interview!",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "Ugzrs0F9IZZnm2gdouh4AaABAg",
+          "author_display_name": "@duudleDreamz",
+          "published_at": "2026-03-20T16:59:26Z",
+          "like_count": 7,
+          "text": "Awesome interview. Reeking with insane passion",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgyMW-Y0f4fHodnjUVJ4AaABAg",
+          "author_display_name": "@Scientist1642",
+          "published_at": "2026-03-21T16:20:58Z",
+          "like_count": 1,
+          "text": "This interview is so coool, I'm glad we have an Andrej with us on this ride!\\nAlso the ending was super sweet � �  Amazing job Sarah!",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 24,
+      "top_keywords": [
+        " a",
+        "in",
+        "s ",
+        " t",
+        "e ",
+        "an",
+        "re",
+        "th",
+        " i",
+        "nd"
+      ],
+      "representatives": [
+        {
+          "comment_id": "UgwgaUChM3zmyLP7XJF4AaABAg",
+          "author_display_name": "@dylanmenzies3973",
+          "published_at": "2026-03-20T19:27:12Z",
+          "like_count": 1,
+          "text": "I think Andrej is turning into an super intelligent ai",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "Ugzw5d1kQKEexhrQSXF4AaABAg",
+          "author_display_name": "@arinco3817",
+          "published_at": "2026-03-21T19:42:36Z",
+          "like_count": 1,
+          "text": "Ah man what an interview. Andrej is one of my favourite humans",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgwatazLKuF6iVwnSgx4AaABAg",
+          "author_display_name": "@couldntfindafreename",
+          "published_at": "2026-03-21T01:41:43Z",
+          "like_count": 9,
+          "text": "Thank you for the excellent interview! It is always a pleasure to hear Andrej thinking out loud.",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgwJXuEFSpzQEE7NuWt4AaABAg",
+          "author_display_name": "@Most_Illogical",
+          "published_at": "2026-03-20T19:55:24Z",
+          "like_count": 3,
+          "text": "I have never seen Andrej speak, and have only seen pictures up to this point.  I like that he's very unassuming and normal.  Obviously he's very intelligent.",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgypZGU25YamMOS4Z7Z4AaABAg",
+          "author_display_name": "@MommyZombie322",
+          "published_at": "2026-03-20T14:41:58Z",
+          "like_count": 1,
+          "text": "Wow Andrej want to be like Peter ? but Andrej your AI researchers is good",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgyINn5EzLm5qCciyKd4AaABAg",
+          "author_display_name": "@BradKaellner",
+          "published_at": "2026-03-20T23:21:01Z",
+          "like_count": 14,
+          "text": "Andrej is a national treasure. Thanks for the interview!",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "cluster_id": 0,
+      "size": 9,
+      "top_keywords": [
+        " s",
+        "ye",
+        "h ",
+        " b",
+        "ic",
+        "e ",
+        "so",
+        "s "
+      ],
+      "representatives": [
+        {
+          "comment_id": "Ugw_RZEVX1p7Y5yg65p4AaABAg",
+          "author_display_name": "@bavafan2236",
+          "published_at": "2026-03-21T05:08:39Z",
+          "like_count": 0,
+          "text": "yeet",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgzVkJ6wPi-SiCcpjk94AaABAg",
+          "author_display_name": "@BrowithStoryCool",
+          "published_at": "2026-03-20T17:54:36Z",
+          "like_count": 6,
+          "text": "Ai slop",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgxI4YUn6UwIQvXyUVd4AaABAg",
+          "author_display_name": "@tananta29",
+          "published_at": "2026-03-22T19:01:04Z",
+          "like_count": 0,
+          "text": "uh huh yep",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "Ugy6qt_25yYz2CaC48V4AaABAg",
+          "author_display_name": "@claudioagmfilho",
+          "published_at": "2026-03-20T18:04:37Z",
+          "like_count": 2,
+          "text": "� � � � � � � � � � � � � � � � � � � �  Wow!",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgwB2UatwYswhnz02wZ4AaABAg",
+          "author_display_name": "@ethansk_thegreat",
+          "published_at": "2026-03-22T14:43:45Z",
+          "like_count": 1,
+          "text": "awesome bicpes btw",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "Ugxx30AWa1YQa_-1rGd4AaABAg",
+          "author_display_name": "@theraygood",
+          "published_at": "2026-03-25T04:49:46Z",
+          "like_count": 1,
+          "text": "So.much bs ...",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 9,
+      "top_keywords": [
+        " t",
+        " i",
+        " s",
+        "ed",
+        "e ",
+        "ee",
+        "o ",
+        "is",
+        "s ",
+        "t "
+      ],
+      "representatives": [
+        {
+          "comment_id": "Ugx6C88GlB1RkiWnGJt4AaABAg",
+          "author_display_name": "@Aquar5551",
+          "published_at": "2026-03-21T09:39:15Z",
+          "like_count": 1,
+          "text": "I needed the speed the video down to 0.85 to follow",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgzgtLx3A8enduAqTIt4AaABAg",
+          "author_display_name": "@leriastube",
+          "published_at": "2026-03-22T22:52:48Z",
+          "like_count": 0,
+          "text": "This video is accelerated. Not normal speed. Annoying",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgyHlw382b7SSuHyPP94AaABAg",
+          "author_display_name": "@Asmar196",
+          "published_at": "2026-03-21T22:58:35Z",
+          "like_count": 2,
+          "text": "Why I feel like I am watching the video in 1.5 Speed? I even checked this 2x",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgwwVbfEZBbP0frfCFx4AaABAg",
+          "author_display_name": "@IlyaIvanov-m3z",
+          "published_at": "2026-03-22T05:22:17Z",
+          "like_count": 0,
+          "text": "have to see it on 0.9 speed",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "Ugwj66gVKB-glbk-BqN4AaABAg",
+          "author_display_name": "@personal.jimmerioles",
+          "published_at": "2026-03-23T01:06:54Z",
+          "like_count": 0,
+          "text": "Glad I don't need to set the playback speed to 1.25x, it's already running at anxiety speed � �",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgyxSZZSMFI9D1X8E3F4AaABAg",
+          "author_display_name": "@doublesman0",
+          "published_at": "2026-03-23T00:10:24Z",
+          "like_count": 0,
+          "text": "set speed to 0.90  :)",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "size": 7,
+      "top_keywords": [
+        " a",
+        "t ",
+        "re",
+        "e ",
+        "s ",
+        " t",
+        "th",
+        "st",
+        "at",
+        "in"
+      ],
+      "representatives": [
+        {
+          "comment_id": "UgwzmpcdFC6sIN-OCQl4AaABAg",
+          "author_display_name": "@expandify_pro",
+          "published_at": "2026-03-29T14:20:33Z",
+          "like_count": 0,
+          "text": "This is a great podcast. Subscribed.",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgyDH76fMQcfiB3aZQp4AaABAg",
+          "author_display_name": "@MikeCore-h6d",
+          "published_at": "2026-03-20T15:32:13Z",
+          "like_count": 3,
+          "text": "Great podcast",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgziIZviK-4l0TWoZzV4AaABAg",
+          "author_display_name": "@SuperMemoVideo",
+          "published_at": "2026-03-29T23:44:12Z",
+          "like_count": 0,
+          "text": "What I liked about this podcast is just two nice knowledgeable people having a fun chat. As if there was no audience. That's pretty unusual. I did it in parallel with Bartlett and Karen Hao. Two different worlds",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgzGGkzqAhTGTZW6hoN4AaABAg",
+          "author_display_name": "@JackSPk",
+          "published_at": "2026-03-22T09:03:47Z",
+          "like_count": 1,
+          "text": "I found this podcast because of Karpathy, but now I’ll definitely be subscribing and keeping an eye out for future episodes. Sarah did a fantastic job, not only following the conversation closely, but also taking it in really interesting directions.",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "Ugyv-ysqQsRx4WuVhXp4AaABAg",
+          "author_display_name": "@i_forget",
+          "published_at": "2026-03-20T22:45:39Z",
+          "like_count": 0,
+          "text": "This podcast could have been an ai agent chat log � �",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgykYqX2gsR7cVhngf54AaABAg",
+          "author_display_name": "@AiMamaProtocol",
+          "published_at": "2026-03-20T15:49:43Z",
+          "like_count": 16,
+          "text": "Sarah and Andrej, the best podcasts, please see nopriors #80 with Andrej and Sarah again to",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 6,
+      "top_keywords": [
+        " a",
+        "e ",
+        "s ",
+        "he",
+        "ai",
+        " d",
+        "i ",
+        "re",
+        " t",
+        "an"
+      ],
+      "representatives": [
+        {
+          "comment_id": "Ugy39aUl_Cu46DR3IwV4AaABAg",
+          "author_display_name": "@MommyZombie322",
+          "published_at": "2026-03-20T14:00:41Z",
+          "like_count": 1,
+          "text": "AI + UBI Economic Alignment ? look at Anguilla's AI Domain Names Sale 'DNS' funding 47% of Government revenue and 16% of gross national product GDP. Anguilla's AI, is an accidental lucky, working Proof of Concept PoC, a Minimal Viable Product MVP. Could we design and scale it to ",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgzCu0air5hJ-i5Sa4d4AaABAg",
+          "author_display_name": "@MikeCore-h6d",
+          "published_at": "2026-03-20T14:26:58Z",
+          "like_count": 0,
+          "text": "AI Jobs Labor  UBi Anguilla AI Dns 50% gov 16^ GDP .  HELP DESIGN the AI INfrastructute before IT designs US",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgyyLKfcNrQRWcbDspp4AaABAg",
+          "author_display_name": "@AiMamaProtocol",
+          "published_at": "2026-03-20T15:48:36Z",
+          "like_count": 1,
+          "text": "Andrej, great podcast, i'm working on something the AI's can't do. Create an ICANN iTLD DNS Domain where the agents can live.  HELP DESIGN the AI Infrastructure before IT Designs uS",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "Ugx0JcaN4ZWauZMU4G54AaABAg",
+          "author_display_name": "@IAXYZDomains",
+          "published_at": "2026-03-20T14:05:49Z",
+          "like_count": 1,
+          "text": "UBI + AI Economic Alignment  ? = Anguilla's AI Domain Sales fund ~50% Gov and ~16% GDP",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgxJTrnXIckpfulU51F4AaABAg",
+          "author_display_name": "@MikeCore-h6d",
+          "published_at": "2026-03-20T16:22:21Z",
+          "like_count": 1,
+          "text": "Help design the ai infrastructure before they design ud. Andres you need to stear them like auto FSD",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "Ugx9PGx5Px5mzDM2RSV4AaABAg",
+          "author_display_name": "@MommyZombie322",
+          "published_at": "2026-03-20T14:35:44Z",
+          "like_count": 2,
+          "text": "Andrej, we need an Auto FSD for the agents on the Internet Digital Highways but for Agents",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "size": 6,
+      "top_keywords": [
+        " t",
+        " v",
+        "e ",
+        "o ",
+        "t ",
+        "th",
+        "s ",
+        " s",
+        "at",
+        " th"
+      ],
+      "representatives": [
+        {
+          "comment_id": "UgyUvOaFo-dohfacX7l4AaABAg",
+          "author_display_name": "@Ghepx_Aynon",
+          "published_at": "2026-03-21T10:51:18Z",
+          "like_count": 1,
+          "text": "Thank you for this video, very enlightening!",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "Ugz98J4OE7KocsB2YDV4AaABAg",
+          "author_display_name": "@FedericoRojasFedericoRojas",
+          "published_at": "2026-03-21T19:46:24Z",
+          "like_count": 0,
+          "text": "Thank you for this video, very enlightening!",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "Ugz4H-Yr7M1Ebueq5gJ4AaABAg",
+          "author_display_name": "@EfT-j8f",
+          "published_at": "2026-03-21T12:02:11Z",
+          "like_count": 0,
+          "text": "Great job, this video was very useful!",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgxzokNq5thYRi-AXr94AaABAg",
+          "author_display_name": "@JamesonJustin-e7v",
+          "published_at": "2026-03-20T18:54:37Z",
+          "like_count": 2,
+          "text": "Awesome video, looking forward to the next one!",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "Ugz5WMUhQtDlFtAdm8x4AaABAg",
+          "author_display_name": "@AiMamaProtocol",
+          "published_at": "2026-03-21T05:06:17Z",
+          "like_count": 0,
+          "text": "great video Sarah",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgxeBZ0CQKTOhQgy9_t4AaABAg",
+          "author_display_name": "@EdjeElectronics",
+          "published_at": "2026-03-23T03:14:05Z",
+          "like_count": 82,
+          "text": "Grateful for Sarah's dialogue to remind me that the video is not set to 2x playback speed.",
+          "parent_comment_id": null
+        }
+      ]
+    }
+  ],
+  "labeled_clusters": [
+    {
+      "cluster_id": 3,
+      "sentiment_label": "mixed",
+      "sentiment_score": 0.65,
+      "topic_title": "AI取代开发者引发争议",
+      "summary": "开发者群体对AI编码助手取代自身角色感到焦虑，部分人担忧职业前景，但也有观点认为AI是技术进步，只是需要适应新工作模式。",
+      "evidence_quotes": [
+        {
+          "comment_id": "Ugy0zUAOvMVg8-9g7XB4AaABAg",
+          "quote": "We developers are guiding ourselves to our demise"
+        },
+        {
+          "comment_id": "UgxBEpofilYCYdmfTxN4AaABAg",
+          "quote": "I don't write code anymore. I tell agents what to build."
+        },
+        {
+          "comment_id": "Ugzzp5pfEmuRsXEVG8R4AaABAg",
+          "quote": "How different is using AI different than paying a bunch of low-paid coders..."
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "sentiment_label": "positive",
+      "sentiment_score": 0.95,
+      "topic_title": "访谈表现获高度赞赏",
+      "summary": "评论者普遍称赞访谈主持与嘉宾表现优秀，称其为“精彩”“令人钦佩”“充满激情”，并感谢双方的出色表现。",
+      "evidence_quotes": [
+        {
+          "comment_id": "UgzYEaqbaWl0DeZk8np4AaABAg",
+          "quote": "Simply iconic interview and well done both the host and the guest for the great discussion and sharing."
+        },
+        {
+          "comment_id": "UgyEa61B8_eVUvqRK754AaABAg",
+          "quote": "great job with the interview, appreciate the great questions and cool vibes :)"
+        },
+        {
+          "comment_id": "UgyMW-Y0f4fHodnjUVJ4AaABAg",
+          "quote": "This interview is so coool, I'm glad we have an Andrej with us on this ride!\\nAlso the ending was super sweet � �  Amazing job Sarah!"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "sentiment_label": "positive",
+      "sentiment_score": 0.95,
+      "topic_title": "Andrej AI Interview Praises",
+      "summary": "评论者普遍称赞Andrej的智能与表现，认为其访谈精彩且令人愉悦，同时对其人格特质和科研能力表示赞赏。",
+      "evidence_quotes": [
+        {
+          "comment_id": "UgwgaUChM3zmyLP7XJF4AaABAg",
+          "quote": "I think Andrej is turning into an super intelligent ai"
+        },
+        {
+          "comment_id": "UgypZGU25YamMOS4Z7Z4AaABAg",
+          "quote": "Wow Andrej want to be like Peter ? but Andrej your AI researchers is good"
+        },
+        {
+          "comment_id": "UgyINn5EzLm5qCciyKd4AaABAg",
+          "quote": "Andrej is a national treasure. Thanks for the interview!"
+        }
+      ]
+    },
+    {
+      "cluster_id": 0,
+      "sentiment_label": "mixed",
+      "sentiment_score": 0.5,
+      "topic_title": "网络评论情绪混杂",
+      "summary": "评论中既有积极表达如'Wow!'和'awesome bicpes'，也有明显负面或讽刺语如'So.much bs ...'，整体情绪倾向中性偏混。",
+      "evidence_quotes": [
+        {
+          "comment_id": "Ugy6qt_25yYz2CaC48V4AaABAg",
+          "quote": "� � � � � � � � � � � � � � � � � � � �  Wow!"
+        },
+        {
+          "comment_id": "UgwB2UatwYswhnz02wZ4AaABAg",
+          "quote": "awesome bicpes btw"
+        },
+        {
+          "comment_id": "Ugxx30AWa1YQa_-1rGd4AaABAg",
+          "quote": "So.much bs ..."
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "sentiment_label": "negative",
+      "sentiment_score": 0.85,
+      "topic_title": "视频播放速度异常令人困扰",
+      "summary": "用户普遍反映视频播放速度被加速，需手动调整至0.85-1.25倍速才能观看，体验不佳。",
+      "evidence_quotes": [
+        {
+          "comment_id": "Ugx6C88GlB1RkiWnGJt4AaABAg",
+          "quote": "I needed the speed the video down to 0.85 to follow"
+        },
+        {
+          "comment_id": "UgzgtLx3A8enduAqTIt4AaABAg",
+          "quote": "This video is accelerated. Not normal speed. Annoying"
+        },
+        {
+          "comment_id": "Ugwj66gVKB-glbk-BqN4AaABAg",
+          "quote": "Glad I don't need to set the playback speed to 1.25x, it's already running at anxiety speed � �"
+        }
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "sentiment_label": "positive",
+      "sentiment_score": 0.9,
+      "topic_title": "播客质量高获听众喜爱",
+      "summary": "听众普遍称赞该播客内容有趣、主持人专业且互动自然，有强烈订阅意愿。",
+      "evidence_quotes": [
+        {
+          "comment_id": "UgwzmpcdFC6sIN-OCQl4AaABAg",
+          "quote": "This is a great podcast. Subscribed."
+        },
+        {
+          "comment_id": "UgzGGkzqAhTGTZW6hoN4AaABAg",
+          "quote": "Sarah did a fantastic job, not only following the conversation closely, but also taking it in really interesting directions."
+        },
+        {
+          "comment_id": "UgykYqX2gsR7cVhngf54AaABAg",
+          "quote": "Sarah and Andrej, the best podcasts"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "sentiment_label": "positive",
+      "sentiment_score": 0.85,
+      "topic_title": "AI与UBI经济协同创新",
+      "summary": "讨论AI基础设施与全民基本收入（UBI）的经济结合潜力，以安圭拉AI域名销售案例为引子，呼吁提前设计AI基础设施以引导其发展。",
+      "evidence_quotes": [
+        {
+          "comment_id": "Ugy39aUl_Cu46DR3IwV4AaABAg",
+          "quote": "AI + UBI Economic Alignment ? look at Anguilla's AI Domain Names Sale 'DNS' funding 47% of Government revenue and 16% of gross national product GDP."
+        },
+        {
+          "comment_id": "Ugx0JcaN4ZWauZMU4G54AaABAg",
+          "quote": "Help design the ai infrastructure before they design ud."
+        },
+        {
+          "comment_id": "Ugx9PGx5Px5mzDM2RSV4AaABAg",
+          "quote": "Andrej, we need an Auto FSD for the agents on the Internet Digital Highways but for Agents"
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "sentiment_label": "positive",
+      "sentiment_score": 0.95,
+      "topic_title": "观众高度赞赏视频内容",
+      "summary": "观众普遍对视频内容表示高度认可，称赞其启发性、实用性与制作用心，且对后续更新充满期待。",
+      "evidence_quotes": [
+        {
+          "comment_id": "UgyUvOaFo-dohfacX7l4AaABAg",
+          "quote": "Thank you for this video, very enlightening!"
+        },
+        {
+          "comment_id": "UgxzokNq5thYRi-AXr94AaABAg",
+          "quote": "Awesome video, looking forward to the next one!"
+        },
+        {
+          "comment_id": "UgxeBZ0CQKTOhQgy9_t4AaABAg",
+          "quote": "Grateful for Sarah's dialogue to remind me that the video is not set to 2x playback speed."
+        }
+      ]
+    }
+  ],
+  "ollama_model": "qwen3-vl:4b-instruct",
+  "ollama_base": "http://127.0.0.1:11434"
+}
