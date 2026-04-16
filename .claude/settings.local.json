@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -o 'import\\\\.meta[^,;`\"]*' /Users/lee/Documents/AI/YouTubeComment_all/dist/assets/index-C0RBnqLa.js)",
+      "Bash(grep -o 'fetch\\(`[^`]*`\\)' /Users/lee/Documents/AI/YouTubeComment_all/dist/assets/index-C0RBnqLa.js)",
+      "Bash(gh api:*)",
+      "Bash(python3 -c \"import json,sys; [print\\(f['name'], f['type']\\) for f in json.load\\(sys.stdin\\)]\")",
+      "Bash(gh repo:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:bacxia-web.github.io)",
+      "Bash(npm run:*)",
+      "Bash(git init:*)",
+      "Bash(git remote:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m ':*)",
+      "Bash(git push:*)",
+      "Bash(ssh -T git@github.com)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\('\\\\n'.join\\(f'{k}: {v}' for k,v in d.get\\('scripts',{}\\).items\\(\\)\\)\\)\")",
+      "Bash(cp /Users/lee/Documents/AI/YouTubeComment_all/YouTubeComment/figma_make/public/clusters_*.json /Users/lee/Documents/AI/YouTubeComment_all/dist/)",
+      "Bash(cp -r /Users/lee/Documents/AI/YouTubeComment_all/YouTubeComment/figma_make/public/comments/ /Users/lee/Documents/AI/YouTubeComment_all/dist/comments/)"
+    ]
+  }
+}

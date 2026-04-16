@@ -1,24 +1,24 @@
 {
   "video_id": "kwSVtQ7dziU",
   "role": "reply",
-  "total_rows": 304,
+  "total_rows": 328,
   "cluster_count": 3,
-  "noise_count": 183,
+  "noise_count": 184,
   "clusters": [
     {
       "cluster_id": 2,
-      "size": 74,
+      "size": 95,
       "top_keywords": [
         "e ",
         " t",
         " a",
         "t ",
-        "s ",
         "th",
+        "s ",
         "in",
         " i",
-        "er",
-        " th"
+        " th",
+        "er"
       ],
       "representatives": [
         {
@@ -26,8 +26,16 @@
           "author_display_name": "@sansbury95",
           "published_at": "2026-03-21T17:22:34Z",
           "like_count": 0,
-          "text": "​ @flopasen It is absolutely wild to me how many people are still pumping this line that you can't build production code with AI. It is true in the sense that a person with no understanding of architecture, infrastructure, or security can't vibe code a good serious app over a lon",
+          "text": "​@flopasen It is absolutely wild to me how many people are still pumping this line that you can't build production code with AI. It is true in the sense that a person with no understanding of architecture, infrastructure, or security can't vibe code a good serious app over a long",
           "parent_comment_id": "Ugwuzw2PQJnSl3YNYKp4AaABAg"
+        },
+        {
+          "comment_id": "UgxBEpofilYCYdmfTxN4AaABAg.AU_y67P8AkKAUjRXwk5sSz",
+          "author_display_name": "@vales2804",
+          "published_at": "2026-03-24T10:54:38Z",
+          "like_count": 0,
+          "text": "@seeknndestroy420 AI is not a substitute for skill and experience, at least not here and now. But in the hands of an experienced developer, that is eager to seriously engage in acquiring the skills to use it properly, it's a tremendous game changer in terms of productivity.\nIt to",
+          "parent_comment_id": "UgxBEpofilYCYdmfTxN4AaABAg"
         },
         {
           "comment_id": "Ugy9kSJBFnK2ScSQsDR4AaABAg.AUm4NseYP0iAUm7l6I90Dv",
@@ -42,7 +50,7 @@
           "author_display_name": "@milanekrkane",
           "published_at": "2026-03-22T16:40:40Z",
           "like_count": 0,
-          "text": "​ @Mr_Big_Head  You keep reducing your position to ‘AI is useful,’ but that was never the contested part. The part I pushed back on was the implication that adjacent technical expertise is basically irrelevant here. It isn’t. A real engineer using AI is not the same as a random p",
+          "text": "​@Mr_Big_Head  You keep reducing your position to ‘AI is useful,’ but that was never the contested part. The part I pushed back on was the implication that adjacent technical expertise is basically irrelevant here. It isn’t. A real engineer using AI is not the same as a random pe",
           "parent_comment_id": "UgzD6x-cBE4SZ412M554AaABAg"
         },
         {
@@ -54,70 +62,46 @@
           "parent_comment_id": "UgxBEpofilYCYdmfTxN4AaABAg"
         },
         {
-          "comment_id": "UgzD6x-cBE4SZ412M554AaABAg.AUc67jQN2ClAUenZDHfgsy",
-          "author_display_name": "@Mr_Big_Head",
-          "published_at": "2026-03-22T15:39:35Z",
+          "comment_id": "UgzICJqn_fZQklKPD-V4AaABAg.AUdOdLN5HOYAUhvx4gl88e",
+          "author_display_name": "@mk8054-r3u",
+          "published_at": "2026-03-23T20:50:36Z",
           "like_count": 0,
-          "text": "@milanekrkanellm response are only as good as your input.  Adjacent expertise does not mean expertise.  Sure they could learn faster with a good starting foundation.  Doesn’t negate the need to learn it.\\n\\nMy initial statement was built exactly on this, he may not be well versed",
-          "parent_comment_id": "UgzD6x-cBE4SZ412M554AaABAg"
-        },
-        {
-          "comment_id": "UgzD6x-cBE4SZ412M554AaABAg.AUc67jQN2ClAUec0IU_Yj2",
-          "author_display_name": "@Mr_Big_Head",
-          "published_at": "2026-03-22T13:58:42Z",
-          "like_count": 0,
-          "text": "@m@milanekrkaneyour initial statement about learning good practices while coding with an LLM would allow an expert engineer to make no mistakes.\\n\\nLike I said if they are not well versed in networking and security it makes sense to use an AI.  Simply learning good practices woul",
-          "parent_comment_id": "UgzD6x-cBE4SZ412M554AaABAg"
+          "text": "I'm with you. It's only really good on the surface. But the devil is in the details. The quality of the agentic AI drops significantly in brownfield codebases. It shines in throw away ptoof of concepts. That's about it. So the best thing is to keep the tasks slow and steer well. ",
+          "parent_comment_id": "UgzICJqn_fZQklKPD-V4AaABAg"
         }
       ]
     },
     {
       "cluster_id": 1,
-      "size": 36,
+      "size": 38,
       "top_keywords": [
         "ha",
         "in",
         "e ",
-        " �",
-        "� ",
+        "rd",
         " t",
         "y ",
-        "� �",
         "el",
-        " s"
+        "es",
+        "te",
+        "er"
       ],
       "representatives": [
         {
-          "comment_id": "UgzLXYKUvBUhKzBw56V4AaABAg.AUa3Y3l0vAnAUaJrc6DZY3",
-          "author_display_name": "@matija92",
-          "published_at": "2026-03-20T21:54:23Z",
-          "like_count": 0,
-          "text": "well said",
-          "parent_comment_id": "UgzLXYKUvBUhKzBw56V4AaABAg"
+          "comment_id": "UgwfspaNhy-S3HPiUit4AaABAg.AUc_eyktm09AUeJpekT-kd",
+          "author_display_name": "@4eyedike",
+          "published_at": "2026-03-22T11:11:05Z",
+          "like_count": 2,
+          "text": "@l0rdak🤪",
+          "parent_comment_id": "UgwfspaNhy-S3HPiUit4AaABAg"
         },
         {
-          "comment_id": "UgxBEpofilYCYdmfTxN4AaABAg.AU_y67P8AkKAUbotbfm39b",
-          "author_display_name": "@hazadam",
-          "published_at": "2026-03-21T11:53:31Z",
-          "like_count": 0,
-          "text": "well said",
-          "parent_comment_id": "UgxBEpofilYCYdmfTxN4AaABAg"
-        },
-        {
-          "comment_id": "UgwiD7GlO2bPk7MGBCx4AaABAg.AU_ySpI4j_wAUcpsnkt01l",
-          "author_display_name": "@tusharmaniktala",
-          "published_at": "2026-03-21T21:21:23Z",
+          "comment_id": "UgyocQDWDC6oaCdQVDl4AaABAg.AUajgQt1w2XAUbg2nF-gwu",
+          "author_display_name": "@miraculixxs",
+          "published_at": "2026-03-21T10:36:16Z",
           "like_count": 1,
-          "text": "well said",
-          "parent_comment_id": "UgwiD7GlO2bPk7MGBCx4AaABAg"
-        },
-        {
-          "comment_id": "UgxBEpofilYCYdmfTxN4AaABAg.AU_y67P8AkKAUb3AeSQvKT",
-          "author_display_name": "@koncreate8744",
-          "published_at": "2026-03-21T04:47:49Z",
-          "like_count": 1,
-          "text": "@seeknndestroy420 You learn that way. Duhh",
-          "parent_comment_id": "UgxBEpofilYCYdmfTxN4AaABAg"
+          "text": "👍 exactly",
+          "parent_comment_id": "UgyocQDWDC6oaCdQVDl4AaABAg"
         },
         {
           "comment_id": "UgytvsKdAXLeZwwWFFd4AaABAg.AUbEdgoa8dvAUfYJCMS3d2",
@@ -134,6 +118,22 @@
           "like_count": 0,
           "text": "@zdeklinowanyyou are welcome!",
           "parent_comment_id": "UgxBEpofilYCYdmfTxN4AaABAg"
+        },
+        {
+          "comment_id": "UgxBEpofilYCYdmfTxN4AaABAg.AU_y67P8AkKAUb3AeSQvKT",
+          "author_display_name": "@koncreate8744",
+          "published_at": "2026-03-21T04:47:49Z",
+          "like_count": 1,
+          "text": "@seeknndestroy420 You learn that way. Duhh",
+          "parent_comment_id": "UgxBEpofilYCYdmfTxN4AaABAg"
+        },
+        {
+          "comment_id": "UgwiD7GlO2bPk7MGBCx4AaABAg.AU_ySpI4j_wAUcpsnkt01l",
+          "author_display_name": "@tusharmaniktala",
+          "published_at": "2026-03-21T21:21:23Z",
+          "like_count": 1,
+          "text": "well said",
+          "parent_comment_id": "UgwiD7GlO2bPk7MGBCx4AaABAg"
         }
       ]
     },

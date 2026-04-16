@@ -1,12 +1,44 @@
 [
   {
+    "video_id": "kwSVtQ7dziU",
+    "title": "Skill Issue: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI",
+    "fetched_at": "2026-04-03T07:28:58.247302+00:00",
+    "comment_count": 881,
+    "good_comment_count": 869,
+    "watch_url": "https://www.youtube.com/watch?v=kwSVtQ7dziU",
+    "good_comment_ratio": 0.9864,
+    "cluster_top_count": 8,
+    "cluster_topic_preview_top": [
+      "AI取代开发者引发争议",
+      "访谈表现获高度赞赏",
+      "Andrej AI Interview Praises",
+      "网络评论情绪混杂"
+    ],
+    "cluster_reply_count": 3,
+    "cluster_topic_preview_reply": [
+      "AI工具在工程实践中的角色争议",
+      "用户积极回应与互动",
+      "视频加速音质受损"
+    ]
+  },
+  {
     "video_id": "k-xtmISBCNE",
     "title": "NVIDIA’s Jensen Huang on Reasoning Models, Robotics, and Refuting the “AI Bubble” Narrative",
     "fetched_at": "2026-04-03T07:13:45.051422+00:00",
     "comment_count": 260,
     "good_comment_count": 260,
     "watch_url": "https://www.youtube.com/watch?v=k-xtmISBCNE",
-    "good_comment_ratio": 1.0
+    "good_comment_ratio": 1.0,
+    "cluster_top_count": 2,
+    "cluster_topic_preview_top": [
+      "AI发展引发社会担忧",
+      "时间戳评论集中"
+    ],
+    "cluster_reply_count": 2,
+    "cluster_topic_preview_reply": [
+      "AI泡沫与技术误解",
+      "网友互动轻松幽默"
+    ]
   },
   {
     "video_id": "qAF1NjEVHhY",
@@ -22,28 +54,6 @@
       "用户高度赞赏产品体验",
       "人物反向书写引发热议",
       "LangChain vs LangGraph对比受欢迎"
-    ]
-  },
-  {
-    "video_id": "kwSVtQ7dziU",
-    "title": null,
-    "fetched_at": "2026-04-02T08:25:12.827482+00:00",
-    "comment_count": 796,
-    "good_comment_count": 784,
-    "watch_url": "https://www.youtube.com/watch?v=kwSVtQ7dziU",
-    "good_comment_ratio": 0.9849,
-    "cluster_top_count": 8,
-    "cluster_topic_preview_top": [
-      "AI取代开发者引发争议",
-      "访谈表现获高度赞赏",
-      "Andrej AI Interview Praises",
-      "网络评论情绪混杂"
-    ],
-    "cluster_reply_count": 3,
-    "cluster_topic_preview_reply": [
-      "AI工具在工程实践中的角色争议",
-      "用户积极回应与互动",
-      "视频加速音质受损"
     ]
   }
 ]

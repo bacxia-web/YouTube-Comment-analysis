@@ -1,26 +1,58 @@
 {
   "video_id": "kwSVtQ7dziU",
   "role": "top_level",
-  "total_rows": 480,
-  "cluster_count": 8,
-  "noise_count": 366,
+  "total_rows": 541,
+  "cluster_count": 7,
+  "noise_count": 413,
   "clusters": [
     {
-      "cluster_id": 3,
-      "size": 28,
+      "cluster_id": 5,
+      "size": 56,
       "top_keywords": [
-        "e ",
         " a",
+        "e ",
         " t",
         "s ",
         "in",
         "th",
-        " i",
         "t ",
-        " th",
-        "an"
+        " i",
+        "an",
+        " th"
       ],
       "representatives": [
+        {
+          "comment_id": "Ugz95A-x-MdjZiztMRN4AaABAg",
+          "author_display_name": "@jurajhprobyt2107",
+          "published_at": "2026-03-22T10:02:32Z",
+          "like_count": 0,
+          "text": "Andrej, your autoresearch looks great. But when I look at people who are already testing it in their apps, they rely on the AI ​​agent to solve everything for them. The only right way to the future is to take the strengths of both AI agents and people who use AI agents. There is ",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "Ugwuzw2PQJnSl3YNYKp4AaABAg",
+          "author_display_name": "@JerzyNaGigancie",
+          "published_at": "2026-03-20T23:41:11Z",
+          "like_count": 16,
+          "text": "I'm quite impressed that Andrew got to the point of 90% to 100% automation in software development using AI. \r\n\r\nSo far it's quite hard for me to get AI to deliver a moderately complex feature that uses kind of unique concept and is integrated with existing codebase. Even though ",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "Ugx2x3YIvviznNGMBb94AaABAg",
+          "author_display_name": "@a-kind-of-horse",
+          "published_at": "2026-03-23T05:33:57Z",
+          "like_count": 1,
+          "text": "Andrej hasn't worked much on typical business software. As a great researcher, scientist, and teacher, he hasn't spent his life maintaining large systems. Yet here he is—a voice setting direction for the industry, fueling AI bros. I find it most unfortunate and harmful.",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgwgaUChM3zmyLP7XJF4AaABAg",
+          "author_display_name": "@dylanmenzies3973",
+          "published_at": "2026-03-20T19:27:12Z",
+          "like_count": 1,
+          "text": "I think Andrej is turning into an super intelligent ai",
+          "parent_comment_id": null
+        },
         {
           "comment_id": "Ugy0zUAOvMVg8-9g7XB4AaABAg",
           "author_display_name": "@Psrk4287",
@@ -30,71 +62,31 @@
           "parent_comment_id": null
         },
         {
-          "comment_id": "UgxLcoMoha96RbsnL2Z4AaABAg",
-          "author_display_name": "@asefacihangir",
-          "published_at": "2026-03-24T04:41:16Z",
-          "like_count": 2,
-          "text": "Notes from video: � � \\n* AI coding agents have fundamentally changed how software is built — top engineers now delegate most of their work to agents instead of writing code themselves. The goal is to keep as many agents running as possible, with minimal human involvement. This s",
-          "parent_comment_id": null
-        },
-        {
-          "comment_id": "UgxBEpofilYCYdmfTxN4AaABAg",
-          "author_display_name": "@keyser456",
-          "published_at": "2026-03-20T18:35:32Z",
-          "like_count": 588,
-          "text": "I'm in the same boat. 25 years of professional software development, and now I'm creating apps in languages and frameworks I don't even know. I don't write code anymore. I tell agents what to build. My experience helps me direct the agents to do things the right way, but I'm beco",
-          "parent_comment_id": null
-        },
-        {
-          "comment_id": "Ugz75oZirmp2CfHrwTF4AaABAg",
-          "author_display_name": "@KaneReroma",
-          "published_at": "2026-03-29T23:26:35Z",
-          "like_count": 0,
-          "text": "Its exciting and kind of scary to say the least. Mot because ai is taking jobs but what AI is going to be capable in the future.",
-          "parent_comment_id": null
-        },
-        {
-          "comment_id": "Ugzzp5pfEmuRsXEVG8R4AaABAg",
-          "author_display_name": "@FastForwardToFlow",
-          "published_at": "2026-03-23T10:12:35Z",
-          "like_count": 0,
-          "text": "How different is using AI different than paying a bunch of low-paid coders in a freelance site to build your complex system and then get frustrated that they failed to do it in a quality manner? People will always get back to TRUE SOFTWARE ENGINEERS when they need to get stuff do",
-          "parent_comment_id": null
-        },
-        {
-          "comment_id": "UgxmJIIrEyL9NMo8sNh4AaABAg",
-          "author_display_name": "@OnigoroshiZero",
-          "published_at": "2026-03-23T22:59:37Z",
-          "like_count": 0,
-          "text": "And we still have the average developer say that AI can't take his job because he is some special kind of snowflake...\\n\\nAnyway, enough laughing at those that can't use AI. This was a great video.",
+          "comment_id": "UgypZGU25YamMOS4Z7Z4AaABAg",
+          "author_display_name": "@MommyZombie322",
+          "published_at": "2026-03-20T14:41:58Z",
+          "like_count": 1,
+          "text": "Wow Andrej want to be like Peter ? but Andrej your AI researchers is good",
           "parent_comment_id": null
         }
       ]
     },
     {
-      "cluster_id": 4,
-      "size": 25,
+      "cluster_id": 6,
+      "size": 21,
       "top_keywords": [
-        " i",
         "th",
-        "s ",
+        " i",
         "in",
-        " a",
         "at",
-        "t ",
-        "e ",
+        " a",
+        "s ",
         "ha",
-        "re"
+        "t ",
+        "er",
+        "te"
       ],
       "representatives": [
-        {
-          "comment_id": "UgzYEaqbaWl0DeZk8np4AaABAg",
-          "author_display_name": "@abubakryagob",
-          "published_at": "2026-03-22T01:38:49Z",
-          "like_count": 0,
-          "text": "Simply iconic interview and well done both the host and the guest for the great discussion and sharing.",
-          "parent_comment_id": null
-        },
         {
           "comment_id": "UgyEa61B8_eVUvqRK754AaABAg",
           "author_display_name": "@at-st-driver",
@@ -104,11 +96,11 @@
           "parent_comment_id": null
         },
         {
-          "comment_id": "UgwBj6j-49ECNqAL3FB4AaABAg",
-          "author_display_name": "@mariannearriola5610",
-          "published_at": "2026-03-25T18:23:19Z",
-          "like_count": 1,
-          "text": "Great conversation !! Sarah is an amazing interviewer, thank you both!",
+          "comment_id": "UgzYEaqbaWl0DeZk8np4AaABAg",
+          "author_display_name": "@abubakryagob",
+          "published_at": "2026-03-22T01:38:49Z",
+          "like_count": 0,
+          "text": "Simply iconic interview and well done both the host and the guest for the great discussion and sharing.",
           "parent_comment_id": null
         },
         {
@@ -128,77 +120,85 @@
           "parent_comment_id": null
         },
         {
-          "comment_id": "UgyMW-Y0f4fHodnjUVJ4AaABAg",
-          "author_display_name": "@Scientist1642",
-          "published_at": "2026-03-21T16:20:58Z",
+          "comment_id": "UgwBj6j-49ECNqAL3FB4AaABAg",
+          "author_display_name": "@mariannearriola5610",
+          "published_at": "2026-03-25T18:23:19Z",
           "like_count": 1,
-          "text": "This interview is so coool, I'm glad we have an Andrej with us on this ride!\\nAlso the ending was super sweet � �  Amazing job Sarah!",
+          "text": "Great conversation !! Sarah is an amazing interviewer, thank you both!",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgwBGeD-GHqVqGpbnuF4AaABAg",
+          "author_display_name": "@KellenChase",
+          "published_at": "2026-03-30T01:23:26Z",
+          "like_count": 0,
+          "text": "This was such a fabulous interview and I am only 9 minutes in. Articulating so much that I haven’t had words for.",
           "parent_comment_id": null
         }
       ]
     },
     {
-      "cluster_id": 5,
-      "size": 24,
+      "cluster_id": 4,
+      "size": 20,
       "top_keywords": [
-        " a",
-        "in",
-        "s ",
         " t",
+        "t ",
+        " s",
         "e ",
-        "an",
-        "re",
-        "th",
+        "s ",
+        "o ",
         " i",
-        "nd"
+        "ed",
+        "th",
+        "ee"
       ],
       "representatives": [
         {
-          "comment_id": "UgwgaUChM3zmyLP7XJF4AaABAg",
-          "author_display_name": "@dylanmenzies3973",
-          "published_at": "2026-03-20T19:27:12Z",
+          "comment_id": "UgzgtLx3A8enduAqTIt4AaABAg",
+          "author_display_name": "@leriastube",
+          "published_at": "2026-03-22T22:52:48Z",
+          "like_count": 0,
+          "text": "This video is accelerated. Not normal speed. Annoying",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgzbX_WRq9EXeZbCj5h4AaABAg",
+          "author_display_name": "@anthonyhunt4659",
+          "published_at": "2026-03-25T09:53:09Z",
+          "like_count": 0,
+          "text": "Listening to this guy made me question if video was on *2 speed",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "Ugx6C88GlB1RkiWnGJt4AaABAg",
+          "author_display_name": "@Aquar5551",
+          "published_at": "2026-03-21T09:39:15Z",
           "like_count": 1,
-          "text": "I think Andrej is turning into an super intelligent ai",
+          "text": "I needed the speed the video down to 0.85 to follow",
           "parent_comment_id": null
         },
         {
-          "comment_id": "Ugzw5d1kQKEexhrQSXF4AaABAg",
-          "author_display_name": "@arinco3817",
-          "published_at": "2026-03-21T19:42:36Z",
+          "comment_id": "UgyHlw382b7SSuHyPP94AaABAg",
+          "author_display_name": "@Asmar196",
+          "published_at": "2026-03-21T22:58:35Z",
+          "like_count": 2,
+          "text": "Why I feel like I am watching the video in 1.5 Speed? I even checked this 2x",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "Ugzp3fCZZAcV_6DRiRR4AaABAg",
+          "author_display_name": "@impendingbloom",
+          "published_at": "2026-03-22T22:48:46Z",
           "like_count": 1,
-          "text": "Ah man what an interview. Andrej is one of my favourite humans",
+          "text": "this video is sped up ever so slightly, am I correct? Or is it just me?",
           "parent_comment_id": null
         },
         {
-          "comment_id": "UgwatazLKuF6iVwnSgx4AaABAg",
-          "author_display_name": "@couldntfindafreename",
-          "published_at": "2026-03-21T01:41:43Z",
-          "like_count": 9,
-          "text": "Thank you for the excellent interview! It is always a pleasure to hear Andrej thinking out loud.",
-          "parent_comment_id": null
-        },
-        {
-          "comment_id": "UgwJXuEFSpzQEE7NuWt4AaABAg",
-          "author_display_name": "@Most_Illogical",
-          "published_at": "2026-03-20T19:55:24Z",
-          "like_count": 3,
-          "text": "I have never seen Andrej speak, and have only seen pictures up to this point.  I like that he's very unassuming and normal.  Obviously he's very intelligent.",
-          "parent_comment_id": null
-        },
-        {
-          "comment_id": "UgypZGU25YamMOS4Z7Z4AaABAg",
-          "author_display_name": "@MommyZombie322",
-          "published_at": "2026-03-20T14:41:58Z",
-          "like_count": 1,
-          "text": "Wow Andrej want to be like Peter ? but Andrej your AI researchers is good",
-          "parent_comment_id": null
-        },
-        {
-          "comment_id": "UgyINn5EzLm5qCciyKd4AaABAg",
-          "author_display_name": "@BradKaellner",
-          "published_at": "2026-03-20T23:21:01Z",
-          "like_count": 14,
-          "text": "Andrej is a national treasure. Thanks for the interview!",
+          "comment_id": "UgxeBZ0CQKTOhQgy9_t4AaABAg",
+          "author_display_name": "@EdjeElectronics",
+          "published_at": "2026-03-23T03:14:05Z",
+          "like_count": 85,
+          "text": "Grateful for Sarah's dialogue to remind me that the video is not set to 2x playback speed.",
           "parent_comment_id": null
         }
       ]
@@ -207,14 +207,82 @@
       "cluster_id": 0,
       "size": 9,
       "top_keywords": [
+        "e ",
+        "t ",
+        " t",
+        " i",
+        " a",
+        "th",
+        "he",
+        "s ",
+        "ke",
+        " th"
+      ],
+      "representatives": [
+        {
+          "comment_id": "UgxXgdqbQY1UcKZwvzt4AaABAg",
+          "author_display_name": "@ethanwaldo1480",
+          "published_at": "2026-03-21T15:29:07Z",
+          "like_count": 0,
+          "text": "The joke problem is probably a skill issue",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgxBB-_29cmFD-gffSh4AaABAg",
+          "author_display_name": "@FortWhenTeaThyme",
+          "published_at": "2026-03-31T00:21:47Z",
+          "like_count": 0,
+          "text": "Karpathy judging the lack of new jokes is strange to me for so many reasons. Like, first, telling a joke with no context is a memorization task, not an intelligence task. They tell the same one over and over because they don't have long-term memory. I mean, if you made 100 clones",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgxAaKtJR1obhEyVQ5F4AaABAg",
+          "author_display_name": "@behemothsleeps7258",
+          "published_at": "2026-03-22T17:58:03Z",
+          "like_count": 0,
+          "text": "I feel like the example of the joke is more an issue of prompt engineering. If you just asked it to make you a react app you would likely get the same todo app",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgzWH4JOjTmEtbDPz8R4AaABAg",
+          "author_display_name": "@ISK_VAGR",
+          "published_at": "2026-03-22T10:23:13Z",
+          "like_count": 0,
+          "text": "What moment how do you optimize a joke???? That is perhaps why it doesn't improve because it is not an optimizable skill",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "Ugx8XaeIxov489eCHV94AaABAg",
+          "author_display_name": "@13thbiosphere",
+          "published_at": "2026-03-20T18:41:46Z",
+          "like_count": 1,
+          "text": "If it tells about a joke you can convert it into a Joe Rogan interview and it will give you a one hour joke you come down to the skill of you as a director of jokes it is a very good joke maker if you know how to direct a jokes",
+          "parent_comment_id": null
+        },
+        {
+          "comment_id": "UgwpQ3a3h6QtQODBPlN4AaABAg",
+          "author_display_name": "@peabody3000",
+          "published_at": "2026-03-26T06:03:01Z",
+          "like_count": 1,
+          "text": "what a great discussion. many sharp insights... although the one about AI jokes seemed somewhat inapt to me. i would think that examples of jokes occurring early in the token curating history would naturally tend to get more baked into LLM's, almost like a contagion. and as with ",
+          "parent_comment_id": null
+        }
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "size": 9,
+      "top_keywords": [
         " s",
         "ye",
+        "..",
         "h ",
+        "t ",
         " b",
+        " h",
         "ic",
         "e ",
-        "so",
-        "s "
+        "so"
       ],
       "representatives": [
         {
@@ -246,7 +314,7 @@
           "author_display_name": "@claudioagmfilho",
           "published_at": "2026-03-20T18:04:37Z",
           "like_count": 2,
-          "text": "� � � � � � � � � � � � � � � � � � � �  Wow!",
+          "text": "🇧🇷🇧🇷🇧🇷🇧🇷👏🏻 Wow!",
           "parent_comment_id": null
         },
         {
@@ -268,73 +336,7 @@
       ]
     },
     {
-      "cluster_id": 6,
-      "size": 9,
-      "top_keywords": [
-        " t",
-        " i",
-        " s",
-        "ed",
-        "e ",
-        "ee",
-        "o ",
-        "is",
-        "s ",
-        "t "
-      ],
-      "representatives": [
-        {
-          "comment_id": "Ugx6C88GlB1RkiWnGJt4AaABAg",
-          "author_display_name": "@Aquar5551",
-          "published_at": "2026-03-21T09:39:15Z",
-          "like_count": 1,
-          "text": "I needed the speed the video down to 0.85 to follow",
-          "parent_comment_id": null
-        },
-        {
-          "comment_id": "UgzgtLx3A8enduAqTIt4AaABAg",
-          "author_display_name": "@leriastube",
-          "published_at": "2026-03-22T22:52:48Z",
-          "like_count": 0,
-          "text": "This video is accelerated. Not normal speed. Annoying",
-          "parent_comment_id": null
-        },
-        {
-          "comment_id": "UgyHlw382b7SSuHyPP94AaABAg",
-          "author_display_name": "@Asmar196",
-          "published_at": "2026-03-21T22:58:35Z",
-          "like_count": 2,
-          "text": "Why I feel like I am watching the video in 1.5 Speed? I even checked this 2x",
-          "parent_comment_id": null
-        },
-        {
-          "comment_id": "UgwwVbfEZBbP0frfCFx4AaABAg",
-          "author_display_name": "@IlyaIvanov-m3z",
-          "published_at": "2026-03-22T05:22:17Z",
-          "like_count": 0,
-          "text": "have to see it on 0.9 speed",
-          "parent_comment_id": null
-        },
-        {
-          "comment_id": "Ugwj66gVKB-glbk-BqN4AaABAg",
-          "author_display_name": "@personal.jimmerioles",
-          "published_at": "2026-03-23T01:06:54Z",
-          "like_count": 0,
-          "text": "Glad I don't need to set the playback speed to 1.25x, it's already running at anxiety speed � �",
-          "parent_comment_id": null
-        },
-        {
-          "comment_id": "UgyxSZZSMFI9D1X8E3F4AaABAg",
-          "author_display_name": "@doublesman0",
-          "published_at": "2026-03-23T00:10:24Z",
-          "like_count": 0,
-          "text": "set speed to 0.90  :)",
-          "parent_comment_id": null
-        }
-      ]
-    },
-    {
-      "cluster_id": 1,
+      "cluster_id": 2,
       "size": 7,
       "top_keywords": [
         " a",
@@ -386,7 +388,7 @@
           "author_display_name": "@i_forget",
           "published_at": "2026-03-20T22:45:39Z",
           "like_count": 0,
-          "text": "This podcast could have been an ai agent chat log � �",
+          "text": "This podcast could have been an ai agent chat log 😂",
           "parent_comment_id": null
         },
         {
@@ -400,7 +402,7 @@
       ]
     },
     {
-      "cluster_id": 2,
+      "cluster_id": 3,
       "size": 6,
       "top_keywords": [
         " a",
@@ -461,72 +463,6 @@
           "published_at": "2026-03-20T14:35:44Z",
           "like_count": 2,
           "text": "Andrej, we need an Auto FSD for the agents on the Internet Digital Highways but for Agents",
-          "parent_comment_id": null
-        }
-      ]
-    },
-    {
-      "cluster_id": 7,
-      "size": 6,
-      "top_keywords": [
-        " t",
-        " v",
-        "e ",
-        "o ",
-        "t ",
-        "th",
-        "s ",
-        " s",
-        "at",
-        " th"
-      ],
-      "representatives": [
-        {
-          "comment_id": "UgyUvOaFo-dohfacX7l4AaABAg",
-          "author_display_name": "@Ghepx_Aynon",
-          "published_at": "2026-03-21T10:51:18Z",
-          "like_count": 1,
-          "text": "Thank you for this video, very enlightening!",
-          "parent_comment_id": null
-        },
-        {
-          "comment_id": "Ugz98J4OE7KocsB2YDV4AaABAg",
-          "author_display_name": "@FedericoRojasFedericoRojas",
-          "published_at": "2026-03-21T19:46:24Z",
-          "like_count": 0,
-          "text": "Thank you for this video, very enlightening!",
-          "parent_comment_id": null
-        },
-        {
-          "comment_id": "Ugz4H-Yr7M1Ebueq5gJ4AaABAg",
-          "author_display_name": "@EfT-j8f",
-          "published_at": "2026-03-21T12:02:11Z",
-          "like_count": 0,
-          "text": "Great job, this video was very useful!",
-          "parent_comment_id": null
-        },
-        {
-          "comment_id": "UgxzokNq5thYRi-AXr94AaABAg",
-          "author_display_name": "@JamesonJustin-e7v",
-          "published_at": "2026-03-20T18:54:37Z",
-          "like_count": 2,
-          "text": "Awesome video, looking forward to the next one!",
-          "parent_comment_id": null
-        },
-        {
-          "comment_id": "Ugz5WMUhQtDlFtAdm8x4AaABAg",
-          "author_display_name": "@AiMamaProtocol",
-          "published_at": "2026-03-21T05:06:17Z",
-          "like_count": 0,
-          "text": "great video Sarah",
-          "parent_comment_id": null
-        },
-        {
-          "comment_id": "UgxeBZ0CQKTOhQgy9_t4AaABAg",
-          "author_display_name": "@EdjeElectronics",
-          "published_at": "2026-03-23T03:14:05Z",
-          "like_count": 82,
-          "text": "Grateful for Sarah's dialogue to remind me that the video is not set to 2x playback speed.",
           "parent_comment_id": null
         }
       ]
